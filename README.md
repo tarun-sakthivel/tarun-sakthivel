@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Flutter development and AI analytics
 - 💪 A born leader and ready to collaborate with any company.
 - 📫 How to reach me - just ping me
-tarunscbe@gmail.com
+tarunofficial077@gmail.com
 
 <!---
 tarun-sakthivel/tarun-sakthivel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
