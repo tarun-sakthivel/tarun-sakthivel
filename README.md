@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm TARUN SAKTHIVEL</h1>
 <h3 align="center">👋Versatile Flutter & Android Engineer</h3>
 
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarun-sakthivel&label=Profile%20views&color=0e75b6&style=flat" alt="tarun-sakthivel" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tarun-sakthivel" alt="tarun-sakthivel" /></a> </p>
@@ -8,6 +10,7 @@
 - 🔭 I’m currently working on **Android development**
 
 - 📫 How to reach me **tarunofficial077@gmail.com**
+ <img align="right" alt="coding" width="180" height="120" src="https://s2.ezgif.com/tmp/ezgif-2-76f6961f3a.webp">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
