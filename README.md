@@ -6,7 +6,7 @@
 tarunofficial077@gmail.com
 
 LANGUAGES KNOWN
-https://www.figma.com/
+
 
 <!---
 tarun-sakthivel/tarun-sakthivel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
